@@ -6,6 +6,7 @@
 <ol>
   <li>Refresh Your Resume</li>
   <li>Optimize Your GitHub</li>
+  <li>Craft Your Cover Letter</li>
 <!--   <li></li>
   <li></li>
   <li></li>
