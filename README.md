@@ -4,6 +4,7 @@
 <h2>Codecademy</h2>
 <ol>
   <li>Learn Git</li>
+  <li>Learn Java</li>
 </ol>
 
 
