@@ -15,6 +15,7 @@
   <li>Craft Your Cover Letter</li>
   <li>Strengthen Your LinkedIn Network & Brand</li>
   <li>Writing READMEs</li>
+  <li>Localization Essentials</li>
 <!--   <li></li>
   <li></li>
   <li></li>
