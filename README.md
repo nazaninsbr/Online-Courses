@@ -14,6 +14,7 @@
   <li>Optimize Your GitHub</li>
   <li>Craft Your Cover Letter</li>
   <li>Strengthen Your LinkedIn Network & Brand</li>
+  <li>Writing READMEs</li>
 <!--   <li></li>
   <li></li>
   <li></li>
