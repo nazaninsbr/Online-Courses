@@ -5,6 +5,7 @@
 <ol>
   <li>Learn Git</li>
   <li>Learn Java</li>
+  <li>Learn HTML</li>
 </ol>
 
 
