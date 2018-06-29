@@ -43,6 +43,9 @@
   <li>A Mini Course on Time Management</li>
   <li>Productivity Mastery: Time Management for Entrepreneurs</li>
   <li>How to Use SMART Goals: Achieve More in Less Time</li>
+  <li>Social Media Management Tool: Buffer Tutorial</li>
+  <li>HIIT @ Home: Body Confidence in 4 Weeks</li>
+  <li>Embrace The Pain Your path to transformative change</li>
 <!--   <li></li>
   <li></li>
   <li></li>
