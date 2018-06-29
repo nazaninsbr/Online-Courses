@@ -26,6 +26,13 @@
 
 <h2>Udemy</h2>
 <ol>
+  <li>Code Your First Game: Arcade Classic in JavaScript</li>
+  <li>Basics of Scrum, Agile and Project Delivery</li>
+  <li>Learn the Truth About Agile versus Waterfall</li>
+  <li>Web Hosting 101: Get Your Website Live on the Web</li>
+  <li>Instagram Small Business & Startup Marketing Foundation</li>
+  <li>How to Write the Ultimate 1 Page Strategic Business Plan</li>
+  <li>Life Coaching Skills in a Nutshell</li>
   <li>The Essential User Experience Design (UX) Course</li>
   <li>Getting Started With Weight Loss - Eating Healthie</li>
   <li>How to get 50,000 Authentic Followers on Instagram</li>
