@@ -3,6 +3,7 @@
 
 <h2>Codecademy</h2>
 <ol>
+  <li>Welcome to Codecademy</li>
   <li>Learn Git</li>
   <li>Learn Java</li>
   <li>Learn HTML</li>
