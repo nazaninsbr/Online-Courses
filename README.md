@@ -54,9 +54,9 @@
   <li></li> -->
 </ol>
 <hr>
-<h2>in28minutes</h2>
+<h2>coursera</h2>
 <ol>
-  <li> Maven Tutorial for Beginners in 5 Steps (based on this link: http://www.in28minutes.com/maven-tutorial-for-beginners)</li>
+  <li>Introduction to Personal Branding</li>
 <!--   <li></li>
   <li></li>
   <li></li>
