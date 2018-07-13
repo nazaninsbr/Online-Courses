@@ -1,6 +1,5 @@
 # Online-Courses
 
-<hr>
 <h2>Codecademy</h2>
 <ol>
   <li>Welcome to Codecademy</li>
@@ -9,7 +8,7 @@
   <li>Learn HTML</li>
   <li>Learn Python</li>
 </ol>
-<hr>
+
 <h2>Udacity-Courses</h2>
 <ol>
   <li>Refresh Your Resume</li>
@@ -23,7 +22,7 @@
   <li></li>
   <li></li> -->
 </ol>
-<hr>
+
 <h2>Udemy</h2>
 <ol>
   <li>Code Your First Game: Arcade Classic in JavaScript</li>
@@ -54,7 +53,7 @@
   <li></li>
   <li></li> -->
 </ol>
-<hr>
+
 <h2>coursera</h2>
 <ol>
   <li>Introduction to Personal Branding</li>
