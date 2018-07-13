@@ -46,6 +46,7 @@
   <li>HIIT @ Home: Body Confidence in 4 Weeks</li>
   <li>Embrace The Pain Your path to transformative change</li>
   <li>Instagram Marketing: Quick Growth Hacks For Beginners</li>
+  <li>How To Set Up a WordPress Ecommerce Website with WordPress</li>
 <!--   <li></li>
   <li></li>
   <li></li>
