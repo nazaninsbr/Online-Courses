@@ -7,6 +7,7 @@
   <li>Learn Git</li>
   <li>Learn Java</li>
   <li>Learn HTML</li>
+  <li>Learn Python</li>
 </ol>
 <hr>
 <h2>Udacity-Courses</h2>
@@ -64,4 +65,13 @@
   <li></li>
   <li></li>
   <li></li> -->
+</ol>
+
+
+<h2>Data Camp</h2>
+<ol>
+  <li>Introduction to R</li>
+  <li>Intro to Python for Data Science</li>
+  <li>Intro to Git for Data Science</li>
+  <li>Intro to SQL for Data Science</li>
 </ol>
