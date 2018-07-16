@@ -9,7 +9,7 @@
   <li>Learn Python</li>
 </ol>
 
-<h2>Udacity-Courses</h2>
+<h2>Udacity</h2>
 <ol>
   <li>Refresh Your Resume</li>
   <li>Optimize Your GitHub</li>
@@ -21,6 +21,11 @@
   <li></li>
   <li></li>
   <li></li> -->
+</ol>
+
+<h2>Edx</h2>
+<ol>
+  <li>Communication Skills for Bridging Divides</li>
 </ol>
 
 <h2>Udemy</h2>
@@ -75,4 +80,25 @@
   <li>Intro to Python for Data Science</li>
   <li>Intro to Git for Data Science</li>
   <li>Intro to SQL for Data Science</li>
+</ol>
+
+<h2>IoT University</h2>
+<ol>
+  <li>A Simple Framework for Designing IoT Products</li>
+  <li>New Business Markets in the Internet of Things</li>
+  <li>Unpacking the Internet of Things</li>
+</ol>
+
+<h2>Sololearn</h2>
+<ol>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>jQuery</li>
+  <li>Python</li>
+  <li>C++</li>
+  <li>Java</li>
+  <li>Ruby</li>
+  <li>SQL</li>
+  <li>PHP</li>
 </ol>
