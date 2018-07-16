@@ -11,12 +11,25 @@
 
 <h2>Udacity</h2>
 <ol>
+  <li>Linux command line basics</li>
+	<li>Make your own 2048</li>
+	<li>Shell workshop</li>
+	<li>Swift for beginners</li>
+	<li>Swift for Developers</li>
+	<li>Localization essentials</li>
+	<li>Programming Foundations with Python</li>
+	<li>Intro to HTML and CSS</li>
+	<li>Introduction to Programming in Python</li>
+	<li>Intro to JavaScript</li>
+	<li>Intro to Java: Functional Programming</li>
+	<li>How to use Git and GitHub</li>
+	<li>Networking for Web Developers</li>
+	<li>GitHub and collaboration</li>
   <li>Refresh Your Resume</li>
   <li>Optimize Your GitHub</li>
   <li>Craft Your Cover Letter</li>
   <li>Strengthen Your LinkedIn Network & Brand</li>
   <li>Writing READMEs</li>
-  <li>Localization Essentials</li>
 <!--   <li></li>
   <li></li>
   <li></li>
