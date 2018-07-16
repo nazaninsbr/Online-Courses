@@ -30,6 +30,10 @@
   <li>Craft Your Cover Letter</li>
   <li>Strengthen Your LinkedIn Network & Brand</li>
   <li>Writing READMEs</li>
+	<li>EigenValue and EigenVector</li>
+	<li>Introduction to Virtual Reality</li>
+	<li>Intro to jQuery</li>
+	<li>Intro to the Design of Everyday Things</li>
 <!--   <li></li>
   <li></li>
   <li></li>
@@ -44,6 +48,18 @@
   <li>Microsoft DEV210x - Introduction to CPP</li>
   <li>RITx SKILLS101x -Business Communication</li>
   <li>TOEFL Test Preparation The Insiders Guide</li>
+</ol>
+
+<h2>coursera</h2>
+<ol>
+  <li>Introduction to Personal Branding</li>
+<!--   <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li> -->
 </ol>
 
 <h2>Udemy</h2>
@@ -70,27 +86,23 @@
   <li>Embrace The Pain Your path to transformative change</li>
   <li>Instagram Marketing: Quick Growth Hacks For Beginners</li>
   <li>How To Set Up a WordPress Ecommerce Website with WordPress</li>
-<!--   <li></li>
+  <li>Screens Essentials for UI Designers</li>
   <li></li>
   <li></li>
   <li></li>
   <li></li>
   <li></li>
-  <li></li> -->
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ol>
-
-<h2>coursera</h2>
-<ol>
-  <li>Introduction to Personal Branding</li>
-<!--   <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li> -->
-</ol>
-
 
 <h2>Data Camp</h2>
 <ol>
