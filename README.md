@@ -26,6 +26,11 @@
 <h2>Edx</h2>
 <ol>
   <li>Communication Skills for Bridging Divides</li>
+  <li>HKPolyUx: EWA1.1x - English at Work in Asia: Job Applications</li>
+  <li>Introduction to Project Management</li>
+  <li>Microsoft DEV210x - Introduction to CPP</li>
+  <li>RITx SKILLS101x -Business Communication</li>
+  <li>TOEFL Test Preparation The Insiders Guide</li>
 </ol>
 
 <h2>Udemy</h2>
