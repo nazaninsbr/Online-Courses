@@ -62,6 +62,22 @@
   <li></li> -->
 </ol>
 
+<h2>YouTube</h2>
+<ol>
+  	<li>sentdex
+		<ol>
+			<li></li>
+		</ol>
+	</li>
+<!--   <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li> -->
+</ol>
+
 <h2>Udemy</h2>
 <ol>
   <li>Code Your First Game: Arcade Classic in JavaScript</li>
@@ -87,21 +103,6 @@
   <li>Instagram Marketing: Quick Growth Hacks For Beginners</li>
   <li>How To Set Up a WordPress Ecommerce Website with WordPress</li>
   <li>Screens Essentials for UI Designers</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
 </ol>
 
 <h2>Data Camp</h2>
