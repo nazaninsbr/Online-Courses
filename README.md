@@ -68,6 +68,7 @@
   	<li>sentdex
 		<ol>
 			<li><a href="https://www.youtube.com/playlist?list=PLQVvvaa0QuDffXBfcH9ZJuvctJV3OtB8A">Image Recognition</a></li>
+			<li><a href="https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL">NLTK with Python 3 for Natural Language Processing</a></li>
 		</ol>
 	</li>
 <!--   <li></li>
