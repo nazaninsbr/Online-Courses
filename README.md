@@ -12,6 +12,7 @@
 <h2>Udacity</h2>
 <ol>
   <li>Linux command line basics</li>
+	<li>Android Basics: User Interface</li>
 	<li>Make your own 2048</li>
 	<li>Shell workshop</li>
 	<li>Swift for beginners</li>
