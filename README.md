@@ -65,7 +65,8 @@
 
 <h2>Futurelearn</h2>
 <ol>
-  <li>DIGITAL SKILLS: GROW YOUR CAREER ACCENTURE</li>
+  	<li>DIGITAL SKILLS: GROW YOUR CAREER ACCENTURE</li>
+	<li>HOW TO SUCCEED AT: WRITING APPLICATIONS (THE UNIVERSITY OF SHEFFIELD)</li>
 <!--   <li></li>
   <li></li>
   <li></li>
