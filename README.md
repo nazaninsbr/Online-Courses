@@ -136,13 +136,13 @@
   	<li>Lesson 1 - 24<br>
 		<img src="images/dart-3.png" width="250px">
 		<img src="images/dart-5.png" width="250px">
-		<img src="images/dart-9.png" width="250px">
+		<img src="images/dart-7.png" width="250px">
 		<img src="images/dart-1.png" width="250px">
 		<img src="images/dart-8.png" width="250px">
 		<img src="images/dart-2.png" width="250px">
 		<img src="images/dart-4.png" width="250px">
 		<img src="images/dart-6.png" width="250px">
-		<img src="images/dart-7.png" width="250px">
+		<img src="images/dart-9.png" width="250px">
 	</li>
 </ol>
 
