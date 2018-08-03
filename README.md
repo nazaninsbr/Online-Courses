@@ -133,8 +133,8 @@
 
 <h2>Dart Academy Boot Camp</h2>
 <ol>
-  	<li>Lesson 1 - 24
-	<img src="images/dart-1.png">
+  	<li>Lesson 1 - 24<br>
+	<img src="images/dart-1.png" width="100px">
 	</li>
 </ol>
 
