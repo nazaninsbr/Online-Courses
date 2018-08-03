@@ -150,11 +150,11 @@
 <h2>A Tour of Go</h2>
 <ol>
   	<li>the basics<br>
-		<img src="images/go-1.png" width="250px">
+		<img src="images/go-5.png" width="250px">
 		<img src="images/go-2.png" width="250px">
 		<img src="images/go-3.png" width="250px">
 		<img src="images/go-4.png" width="250px">
-		<img src="images/go-5.png" width="250px">
+		<img src="images/go-1.png" width="250px">
 		<img src="images/go-6.png" width="250px">
 	</li>
 </ol>
