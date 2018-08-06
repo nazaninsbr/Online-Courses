@@ -1,5 +1,8 @@
 # Online-Courses
 
+the list of courses I have completed plus some of my notes<br>
+
+
 <h2>Codecademy</h2>
 <ol>
   <li>Welcome to Codecademy</li>
@@ -54,26 +57,12 @@
 <h2>coursera</h2>
 <ol>
   <li>Introduction to Personal Branding</li>
-<!--   <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li> -->
 </ol>
 
 <h2>Futurelearn</h2>
 <ol>
   	<li>DIGITAL SKILLS: GROW YOUR CAREER ACCENTURE</li>
 	<li>HOW TO SUCCEED AT: WRITING APPLICATIONS (THE UNIVERSITY OF SHEFFIELD)</li>
-<!--   <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li> -->
 </ol>
 
 
@@ -86,13 +75,6 @@
 			<li><a href="https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL">NLTK with Python 3 for Natural Language Processing</a></li>
 		</ol>
 	</li>
-<!--   <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li> -->
 </ol>
 
 <h2>Udemy</h2>
