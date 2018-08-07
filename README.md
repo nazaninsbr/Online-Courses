@@ -14,8 +14,8 @@ the list of courses I have completed plus some of my notes<br>
 
 <h2>Udacity</h2>
 <ol>
-  <li></li>
-  <li>Linux command line basics</li>
+  	<li>Self-Driving Car Fundamentals: Featuring Apollo</li>
+  	<li>Linux command line basics</li>
 	<li>Android Basics: User Interface</li>
 	<li>Make your own 2048</li>
 	<li>Shell workshop</li>
