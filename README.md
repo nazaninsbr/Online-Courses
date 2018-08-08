@@ -15,6 +15,14 @@ the list of courses I have completed plus some of my notes<br>
 <h2>Udacity</h2>
 <ol>
   	<li>Self-Driving Car Fundamentals: Featuring Apollo</li>
+	<li>Data Visualization with Tableau
+		<ul>
+			<li>https://www.targetprocess.com/articles/visual-encoding/</li>
+			<li></li>
+			<li></li>
+			<li></li>
+		</ul>
+	</li>
   	<li>Linux command line basics</li>
 	<li>Android Basics: User Interface</li>
 	<li>Make your own 2048</li>
