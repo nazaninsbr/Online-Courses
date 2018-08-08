@@ -18,8 +18,8 @@ the list of courses I have completed plus some of my notes<br>
 	<li>Data Visualization with Tableau
 		<ul>
 			<li>https://www.targetprocess.com/articles/visual-encoding/</li>
-			<li></li>
-			<li></li>
+			<li>http://extremepresentation.typepad.com/.shared/image.html?/photos/uncategorized/choosing_a_good_chart.jpg</li>
+			<li>http://www.perceptualedge.com/articles/misc/Graph_Selection_Matrix.pdf</li>
 			<li></li>
 		</ul>
 	</li>
