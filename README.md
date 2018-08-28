@@ -12,7 +12,7 @@ the list of courses I have completed plus some of my notes<br>
   <li>Learn Python</li>
 </ol>
 
-<h2>Udacity</h2>
+<h2>Udacity : Free Courses</h2>
 <ol>
   	<li>Self-Driving Car Fundamentals: Featuring Apollo</li>
 	<li>Data Visualization with Tableau
@@ -48,10 +48,11 @@ the list of courses I have completed plus some of my notes<br>
 	<li>Introduction to Virtual Reality</li>
 	<li>Intro to jQuery</li>
 	<li>Intro to the Design of Everyday Things</li>
-<!--   <li></li>
-  <li></li>
-  <li></li>
-  <li></li> -->
+</ol>
+
+<h2>Udacity : Nanodegree Program Free Preview</h2>
+<ol>
+  	<li></li>
 </ol>
 
 <h2>Edx</h2>
