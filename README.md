@@ -54,6 +54,7 @@ the list of courses I have completed plus some of my notes<br>
 <ol>
   	<li>AI Programming with Python Nanodegree Free Preview</li>
 	<li>Intro to Programming Nanodegree Free Preview</li>
+	<li>Front-End Web Developer Nanodegree Preview</li>
 </ol>
 
 <h2>Edx</h2>
