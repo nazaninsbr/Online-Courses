@@ -52,7 +52,7 @@ the list of courses I have completed plus some of my notes<br>
 
 <h2>Udacity : Nanodegree Program Free Preview</h2>
 <ol>
-  	<li></li>
+  	<li>AI Programming with Python Nanodegree Free Preview</li>
 </ol>
 
 <h2>Edx</h2>
