@@ -67,7 +67,8 @@ the list of courses I have completed plus some of my notes<br>
 
 <h2>coursera</h2>
 <ol>
-  <li>Introduction to Personal Branding</li>
+  	<li>Introduction to Personal Branding</li>
+	<li>Intro to Programming Nanodegree Free Preview</li>
 </ol>
 
 <h2>Futurelearn</h2>
