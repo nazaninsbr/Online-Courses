@@ -53,6 +53,7 @@ the list of courses I have completed plus some of my notes<br>
 <h2>Udacity : Nanodegree Program Free Preview</h2>
 <ol>
   	<li>AI Programming with Python Nanodegree Free Preview</li>
+	<li>Intro to Programming Nanodegree Free Preview</li>
 </ol>
 
 <h2>Edx</h2>
@@ -68,7 +69,6 @@ the list of courses I have completed plus some of my notes<br>
 <h2>coursera</h2>
 <ol>
   	<li>Introduction to Personal Branding</li>
-	<li>Intro to Programming Nanodegree Free Preview</li>
 </ol>
 
 <h2>Futurelearn</h2>
