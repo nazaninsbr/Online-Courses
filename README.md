@@ -82,6 +82,12 @@ the list of courses I have completed plus some of my notes<br>
 
 <h2>YouTube</h2>
 <ol>
+	<li>The Net Ninja
+		<ol>
+			<li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jE_cGvLLC60C_PeF_24pvv">Bootstrap Tutorial</a></li>
+			<li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff">Materialize Tutorial</a></li>
+		</ol>
+	</li>
   	<li>sentdex
 		<ol>
 			<li><a href="https://www.youtube.com/playlist?list=PLQVvvaa0QuDffXBfcH9ZJuvctJV3OtB8A">Image Recognition</a></li>
