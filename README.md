@@ -48,6 +48,7 @@ the list of courses I have completed plus some of my notes<br>
 	<li>Introduction to Virtual Reality</li>
 	<li>Intro to jQuery</li>
 	<li>Intro to the Design of Everyday Things</li>
+	<li>What is Programming?</li>
 </ol>
 
 <h2>Udacity : Nanodegree Program Free Preview</h2>
