@@ -91,6 +91,11 @@ the list of courses I have completed plus some of my notes<br>
 			<li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gdqHxcUgGhl_cV6xET1_0N">JavaScript Tips and Tricks</a></li>
 		</ol>
 	</li>
+	<li>3Blue1Brown
+		<ol>
+			<li><a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a></li>
+		</ol>
+	</li>
   	<li>sentdex
 		<ol>
 			<li><a href="https://www.youtube.com/playlist?list=PLQVvvaa0QuDffXBfcH9ZJuvctJV3OtB8A">Image Recognition</a></li>
