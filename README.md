@@ -87,6 +87,8 @@ the list of courses I have completed plus some of my notes<br>
 		<ol>
 			<li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jE_cGvLLC60C_PeF_24pvv">Bootstrap Tutorial</a></li>
 			<li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff">Materialize Tutorial</a></li>
+			<li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ii5PB2UMyYH7QFZWfGnVgZ">CSS Variables</a></li>
+			<li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gdqHxcUgGhl_cV6xET1_0N">JavaScript Tips and Tricks</a></li>
 		</ol>
 	</li>
   	<li>sentdex
