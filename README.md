@@ -94,6 +94,7 @@ the list of courses I have completed plus some of my notes<br>
 	<li>3Blue1Brown
 		<ol>
 			<li><a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a></li>
+			<li><a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDMRtm8h9bG9P06WINNoBnCR">Binary, Hanoi and Sierpinski</a></li>
 		</ol>
 	</li>
   	<li>sentdex
