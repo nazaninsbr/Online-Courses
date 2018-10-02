@@ -25,6 +25,7 @@ the list of courses I have completed plus some of my notes<br>
 		</ul>
 	</li>
   	<li>Linux command line basics</li>
+	<li>Classification Models</li>
 	<li>Android Basics: User Interface</li>
 	<li>Make your own 2048</li>
 	<li>Shell workshop</li>
