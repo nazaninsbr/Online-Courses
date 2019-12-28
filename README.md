@@ -24,6 +24,7 @@ the list of courses I have completed plus some of my notes<br>
 			<li>https://www.tableau.com/learn/training</li>
 		</ul>
 	</li>
+	<li>Problem Solving with Advanced Analytics</li>
   	<li>Linux command line basics</li>
 	<li>Classification Models</li>
 	<li>Android Basics: User Interface</li>
