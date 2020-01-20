@@ -1,7 +1,11 @@
 # Online-Courses
 
-the list of courses I have completed plus some of my notes<br>
+the list of courses I have completed plus some of my notes. The courses are divided into those completed *before 2020* and those completed *in 2020*.<br>
 
+# Courses Completed In 2020
+
+
+# Courses Completed Before 2020
 
 <h2>Codecademy</h2>
 <ol>
