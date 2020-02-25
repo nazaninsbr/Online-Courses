@@ -3,7 +3,13 @@
 the list of courses I have completed plus some of my notes. The courses are divided into those completed *before 2020* and those completed *in 2020*.<br>
 
 # Courses Completed In 2020
-
+<ol>
+  <li>Neural Networks and Deep Learning (Coursera)</li>
+  <li>Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (Coursera)</li>
+  <li>Structuring Machine Learning Projects (Coursera)</li>
+  <li>Convolutional Neural Networks (Coursera)</li>
+  <li>Sequence Models (Coursera)</li>
+</ol>
 
 # Courses Completed Before 2020
 
