@@ -9,6 +9,10 @@ the list of courses I have completed plus some of my notes. The courses are divi
   <li>Structuring Machine Learning Projects (Coursera)</li>
   <li>Convolutional Neural Networks (Coursera)</li>
   <li>Sequence Models (Coursera)</li>
+  <li>Python and Statistics for Financial Analysis
+	<li><img src="images/python_and_stats_for_financial_1.png" width="250px"></li>
+	<li><img src="images/python_and_stats_for_financial_2.png" width="250px"></li>
+  </li>
 </ol>
 
 # Courses Completed Before 2020
