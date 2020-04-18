@@ -11,8 +11,8 @@ the list of courses I have completed plus some of my notes. The courses are divi
   <li>Sequence Models (Coursera)</li>
   <li>Python and Statistics for Financial Analysis
 	<ul>
-		<li><img src="images/python_and_stats_for_financial_1.png" width="250px"></li>
-		<li><img src="images/python_and_stats_for_financial_2.png" width="250px"></li>
+		<li><img src="images/python_and_stats_for_financial_1.png" width="500px"></li>
+		<li><img src="images/python_and_stats_for_financial_2.png" width="500px"></li>
 	</ul>
   </li>
 </ol>
