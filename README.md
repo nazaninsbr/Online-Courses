@@ -1,17 +1,18 @@
 # Online-Courses
 
 ## You can view the official course certificates <a href="http://nazanin-sabri.com/wp-content/uploads/2020/06/Certificates.pdf">here</a>
+## Course badges are available in my <a href="https://www.youracclaim.com/users/nazanin-sabri">Acclaim Profile</a>
 <ol>
-  <li>Neural Networks and Deep Learning (Coursera)</li>
-  <li>Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (Coursera)</li>
-  <li>Structuring Machine Learning Projects (Coursera)</li>
-  <li>Convolutional Neural Networks (Coursera)</li>
-  <li>Sequence Models (Coursera)</li>
-  <li>Computational Social Science Methods (Coursera)</li>
-  <li>Big Data, Artificial Intelligence, and Ethics (Coursera)</li>
-  <li>Social Network Analysis (Coursera)</li>
-  <li>Computer Simulations (Coursera)</li>
-  <li>Computational Social Science Capstone Project (Coursera)</li>
+	<li><a href="https://www.coursera.org/account/accomplishments/verify/ASL3YGY8Y5GF">Neural Networks and Deep Learning (Coursera)</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/L7YM8JSWZD2C">Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (Coursera)</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/AAXNM2TYJ2PK">Structuring Machine Learning Projects (Coursera)</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/H6SMHB9S9JXA">Convolutional Neural Networks (Coursera)</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/TUT3CF94QVGJ">Sequence Models (Coursera)</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/certificate/VK2WYBMTGQBH">Computational Social Science Methods (Coursera)</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/certificate/AE6384QYU2BE">Big Data, Artificial Intelligence, and Ethics (Coursera)</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/certificate/U2SPRQZK9WTS">Social Network Analysis (Coursera)</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/certificate/VGKPYMND8J37">Computer Simulations (Coursera)</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/5SQT5DAPDZ7R">Computational Social Science Capstone Project (Coursera)</a></li>
 
   <li>The Science of Well-Being
 	<ul>
